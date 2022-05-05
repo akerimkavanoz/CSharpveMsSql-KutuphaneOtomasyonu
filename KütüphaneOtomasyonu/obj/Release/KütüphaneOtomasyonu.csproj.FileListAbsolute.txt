@@ -1,0 +1,13 @@
+C:\Users\Kerim\source\repos\KütüphaneOtomasyonu\KütüphaneOtomasyonu\bin\Release\KütüphaneOtomasyonu.exe.config
+C:\Users\Kerim\source\repos\KütüphaneOtomasyonu\KütüphaneOtomasyonu\bin\Release\KütüphaneOtomasyonu.exe
+C:\Users\Kerim\source\repos\KütüphaneOtomasyonu\KütüphaneOtomasyonu\bin\Release\KütüphaneOtomasyonu.pdb
+C:\Users\Kerim\source\repos\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Release\KütüphaneOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Kerim\source\repos\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Release\KütüphaneOtomasyonu.Form1.resources
+C:\Users\Kerim\source\repos\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Release\KütüphaneOtomasyonu.Form2.resources
+C:\Users\Kerim\source\repos\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Release\KütüphaneOtomasyonu.Form3.resources
+C:\Users\Kerim\source\repos\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Release\KütüphaneOtomasyonu.Form5.resources
+C:\Users\Kerim\source\repos\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Release\KütüphaneOtomasyonu.Properties.Resources.resources
+C:\Users\Kerim\source\repos\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Release\KütüphaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Kerim\source\repos\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Release\KütüphaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Kerim\source\repos\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Release\KütüphaneOtomasyonu.exe
+C:\Users\Kerim\source\repos\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Release\KütüphaneOtomasyonu.pdb
